@@ -1,0 +1,2 @@
+# ramigo
+starting React repo 
